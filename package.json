@@ -1,0 +1,15 @@
+{
+  "name": "mysqltutorial",
+  "version": "1.0.0",
+  "description": "mysql ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "nextzeus",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.1"
+  }
+}
